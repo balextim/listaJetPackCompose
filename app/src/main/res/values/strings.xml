@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">listaContactos</string>
+    <string name="apellido">Apellido</string>
+    <string name="numero">Numero</string>
+    <string name="correo">Correo</string>
+    <string name="descripcion">Descripcion</string>
+</resources>
